@@ -1,5 +1,3 @@
-<style>
-    
 .header{
     position: absolute;
     left: 0;
@@ -47,6 +45,13 @@ li a{
     margin-bottom: 0px;
 }
 
+#search-bar input{
+    width: 570px;
+    height: 40px;
+    border-radius: 20px;
+    border: 1px solid #e7e7e7;
+    text-align: center;
+}
 .lucky {
     margin-left: 717px;
 }
